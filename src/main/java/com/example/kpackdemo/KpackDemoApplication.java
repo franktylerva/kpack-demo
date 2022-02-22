@@ -15,7 +15,7 @@ public class KpackDemoApplication {
 
 	@GetMapping("/")
 	public String hello() {
-		return "Hello, World!  Cool!";
+		return "Hello, World!";
 	}
 
 }
